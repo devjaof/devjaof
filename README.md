@@ -1,14 +1,14 @@
 ### Olá! Me Chamo João Francisco Rodrigues!
 
-<div align="center">
-  <img src='https://data.whicdn.com/images/54406285/original.gif'>
-</div>
+
 <br>
 <div align="center">
-🍃 Meu foco no momento é em Java <br>
-📚 Também estou estudando Mobile e SQL <br>
-🎈 Ele/dele <br>
- </div> 
+  🍃 Meu foco no momento é em Java <br>
+  📚 Também estou estudando Mobile e SQL <br>
+  🎈 Ele/dele <br>
+  <br>
+  <img height="180em" src='https://data.whicdn.com/images/54406285/original.gif'>
+</div> 
 <br>
 
 <div align="center">
