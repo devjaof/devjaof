@@ -3,8 +3,8 @@
 
 <br>
 <div align="center">
-  🍃 Meu foco no momento é em Java e Android<br>
-  📚 Também estou estudando front-end e SQL <br>
+  🍃 Meu foco no momento é em JavaScript e SQL<br>
+  📚 Também estou estudando java e mobile<br>
   🎈 Ele/dele <br>
   <br>
   <img height="180em" src='https://data.whicdn.com/images/54406285/original.gif'>
