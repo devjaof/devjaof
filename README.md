@@ -4,7 +4,7 @@
 <br>
 <div align="center">
   🍃 Meu foco no momento é em JavaScript e SQL<br>
-  📚 Também estou estudando java e mobile<br>
+  📚 Também estou estudando node.js<br>
   🎈 Ele/dele <br>
   <br>
   <img height="180em" src='https://data.whicdn.com/images/54406285/original.gif'>
