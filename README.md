@@ -1,5 +1,5 @@
 <div align="center">
-### Olá! Me Chamo João Francisco Rodrigues!
+  <p style="font-size: 25px; font-width: 700">Olá! Me Chamo João Francisco!</p>
 </div>
 <br>
 <div align="center">
