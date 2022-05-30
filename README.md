@@ -3,7 +3,7 @@
 
 <br>
 <div align="center">
-  🍃 JavaScript | Embers, Nodejs<br>
+  🍃 JavaScript | Ember, Nodejs<br>
   📚 Também estou estudando Reactjs e SQL<br>
   🎈 Ele/dele <br>
   <br>
