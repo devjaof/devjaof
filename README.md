@@ -3,9 +3,7 @@
 </div>
 <br>
 <div align="center">
-  🍃 JavaScript | Ember, Nodejs<br>
-  📚 Também estou estudando Reactjs e SQL<br>
-  🎈 Ele/dele <br>
+  🍃 Dev Full Cycle | Typescript<br>
   <br>
   <img height="180em" src='https://data.whicdn.com/images/54406285/original.gif'>
 </div> 
