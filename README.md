@@ -3,7 +3,7 @@
 </div>
 <br>
 <div align="center">
-  🍃 Dev Full Cycle | Typescript<br>
+  🍃 Dev Full Stack | Typescript<br>
   <br>
   <img height="180em" src='https://data.whicdn.com/images/54406285/original.gif'>
 </div> 
