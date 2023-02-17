@@ -1,8 +1,4 @@
 <div align="center">
-  <p>Olá! Me Chamo João Francisco!</p>
-</div>
-<br>
-<div align="center">
   🍃 Dev Full Stack | Typescript<br>
   <br>
   <img height="180em" src='https://data.whicdn.com/images/54406285/original.gif'>
