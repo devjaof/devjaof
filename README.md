@@ -1,5 +1,5 @@
 <div align="center">
-  🍃 Dev Full Stack | Typescript<br>
+  🍃 Web Dev <br>
   <br>
   <img height="180em" src='https://data.whicdn.com/images/54406285/original.gif'>
 </div> 
